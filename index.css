@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 300px;
+    height: 400px;
+    background: red;
+    background-image: url();
+    background-size: cover;
+    text-align: center;
+    margin: 0 auto;
+}
+.contenir{
+    width: 100px;
+    margin: 100px auto;
+    background-color: blue;
+    border-radius: 50%;
+    height: 100px;
+}
